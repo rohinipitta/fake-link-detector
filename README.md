@@ -28,4 +28,4 @@ A web-based tool to identify potentially malicious or fake URLs in real-time, he
 ## 🙋‍♀️ Author
 
 **Rohini Pitta**  
-[LinkedIn](www.linkedin.com/in/rohini-pitta-88aa6326b/) | 
+[LinkedIn](www.linkedin.com/in/rohini-pitta-88aa6326b/)
