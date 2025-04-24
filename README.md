@@ -1,31 +1,79 @@
-# 🔗 Fake Link Detector
+# Fake Link Detector 🌐🔍
 
-A web-based tool to identify potentially malicious or fake URLs in real-time, helping users avoid phishing and deceptive links.
+A multilingual tool to detect suspicious/fake URLs and protect users from phishing scams. Supports 10 Indian languages with dark mode.
 
-## 🚀 Features
-
-- 🔍 Detects suspicious, shortened, or disguised URLs
-- ⚡ Real-time link analysis
-- 💻 Clean, simple, and responsive UI
-- 📱 Works across devices and browsers
-
-## 🛠 Tech Stack
-
-- Frontend: HTML, CSS, JavaScript
-- Deployment: Netlify
+[![Live Demo](https://fake-link-detection.netlify.app/)](https://rohinipitta.github.io/fake-link-detector) 
 
 
-## 🌐 Live Demo
+## Features ✨
 
-👉 [Visit the App on Netlify](https://fake-link-detection.netlify.app/)
+- **Multilingual Support** - Available in 10 Indian languages (English, Hindi, Telugu, Tamil, Kannada, Malayalam, Bengali, Marathi, Gujarati, Punjabi)
+- **Comprehensive URL Analysis** - Checks for:
+  - HTTPS security
+  - Suspicious TLDs
+  - URL shorteners
+  - IP addresses
+  - Brand impersonation
+  - Phishing patterns
+- **Dark Mode** - Automatic system preference detection
+- **Responsive Design** - Works on all devices
+- **No Dependencies** - Pure HTML, CSS, and JavaScript
 
-## 📁 Project Structure
+## How to Use 🚀
 
-- `index.html` – Main landing page
-- `styles.css` – Styling for the interface
-- `script.js` – JavaScript logic for detection
+1. Enter a URL in the input field
+2. Click "Check" or press Enter
+3. View detailed analysis results
+4. Report suspicious links if needed
 
-## 🙋‍♀️ Author
+## Supported Checks ✔️
 
-**Rohini Pitta**  
-[LinkedIn](www.linkedin.com/in/rohini-pitta-88aa6326b/)
+- ✅ HTTPS verification
+- ✅ Suspicious domain detection
+- ✅ URL shortener identification
+- ✅ IP address detection
+- ✅ Brand impersonation patterns
+- ✅ Phishing pattern matching
+- ✅ Character analysis
+- ✅ Subdomain analysis
+- ✅ URL length evaluation
+
+## Supported Languages 🌍
+
+| Language       | Code |
+|----------------|------|
+| English        | en   |
+| Hindi          | hi   |
+| Telugu         | te   |
+| Tamil          | ta   |
+| Kannada        | kn   |
+| Malayalam      | ml   |
+| Bengali        | bn   |
+| Marathi        | mr   |
+| Gujarati       | gu   |
+| Punjabi        | pa   |
+
+## Installation 💻
+
+1. Clone the repository:
+```bash
+git clone https://github.com/rohinipitta/fake-link-detector.git
+2.Open index.html in your browser
+
+No build step or dependencies required!
+```
+Contributing 🤝
+Contributions are welcome! Please open an issue or submit a pull request for any:
+Bug fixes
+New features
+Language translations
+UI improvements
+
+
+Acknowledgements 🙏
+Inspired by the need to combat online phishing scams
+Uses Tailwind CSS for styling
+Font Awesome icons for UI elements
+Google Fonts for typography
+
+Stay safe online! Always verify links before clicking.
