@@ -62,7 +62,7 @@ git clone https://github.com/rohinipitta/fake-link-detector.git
 
 No build step or dependencies required!
 ```
-Contributing 🤝
+##Contributing 🤝
 Contributions are welcome! Please open an issue or submit a pull request for any:
 Bug fixes
 New features
@@ -70,7 +70,7 @@ Language translations
 UI improvements
 
 
-Acknowledgements 🙏
+##Acknowledgements 🙏
 Inspired by the need to combat online phishing scams
 Uses Tailwind CSS for styling
 Font Awesome icons for UI elements
