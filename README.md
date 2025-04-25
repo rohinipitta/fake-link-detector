@@ -2,7 +2,7 @@
 
 A multilingual tool to detect suspicious/fake URLs and protect users from phishing scams. Supports 10 Indian languages with dark mode.
 
-Live Demo(https://fake-link-detection.netlify.app/)
+[[Live Demo]](https://fake-link-detection.netlify.app/)
 
 
 ## Features ✨
